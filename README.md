@@ -21,6 +21,7 @@ The project addresses the challenge of predicting whether a customer will comple
 - Generate insights that can help better understand customer booking patterns.
 
 ### `Dataset Used`
+<a href="https://github.com/alinasingh/British-Airways-Customer-Booking-Prediction/blob/main/customer_booking.csv"> British Airways customer booking datasets
 
 ## 🎯 Project Objective
 
