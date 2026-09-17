@@ -334,6 +334,26 @@ Overall, this project provided practical experience in applying an end-to-end Da
 
 ## 📊 Project Presentation
 
+
 A detailed presentation covering the complete project workflow, including the business problem, dataset, exploratory data analysis, customer booking insights, Machine Learning approach, model performance, feature importance, and conclusion.
 
 📎 **[View / Download Project Presentation](./British_Airways_Customer_Booking_Prediction_Presentation.pptx)**
+
+## 🏆 Certificate
+
+This project was completed as part of the **British Airways Data Science Virtual Experience Program on Forage**.
+
+The program provided practical experience in applying Data Science and Machine Learning techniques to real-world business problems, including:
+
+* Modeling lounge eligibility at Heathrow Terminal 3
+* Predicting customer buying behaviour
+
+📜 **[View Certificate](./British_Airways_Certificate.pdf)**
+
+
+
+
+
+
+
+
