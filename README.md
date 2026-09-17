@@ -317,38 +317,6 @@ The analysis provided several insights into customer booking behavior:
 These findings can help provide a better understanding of customer booking patterns and can serve as a starting point for further analysis of customer behavior.
 
 
-## ⚠️ Problems Faced
-
-During the project, several challenges were encountered while preparing the dataset and building the Machine Learning model.
-
-### 1. Imbalanced Target Variable
-
-The target variable `booking_complete` was highly imbalanced:
-
-* Not Completed: **85.00%**
-* Completed: **15.00%**
-
-Because of this imbalance, accuracy alone could give a misleading view of model performance. Therefore, Precision, Recall, F1-Score, ROC-AUC, and the Confusion Matrix were also considered.
-
-### 2. High-Cardinality Categorical Features
-
-Features such as `route` and `booking_origin` contained many unique categories. After applying One-Hot Encoding, the dataset expanded to **901 features**.
-
-This increased the dimensionality of the dataset and required an appropriate Machine Learning algorithm to handle the transformed data.
-
-### 3. Identifying Meaningful Patterns
-
-Customer booking behavior varied considerably across routes, booking origins, sales channels, trip types, and additional services. Understanding these differences required detailed exploratory analysis rather than relying only on overall booking counts.
-
-### 4. Evaluating Model Performance
-
-The model achieved relatively high accuracy, but its Recall and F1-Score for completed bookings were considerably lower. This highlighted the importance of evaluating multiple metrics when working with an imbalanced classification problem.
-
-### 5. Interpreting Model Predictions
-
-Feature importance was analyzed to understand which variables contributed most to the Random Forest predictions. However, feature importance was treated as an indicator of model contribution rather than proof of a causal relationship.
-
-
 ## 🏁 Conclusion
 
 This project analyzed British Airways customer booking data to understand booking behavior and predict whether a customer would complete a flight booking.
