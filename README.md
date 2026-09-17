@@ -348,7 +348,7 @@ The program provided practical experience in applying Data Science and Machine L
 * Modeling lounge eligibility at Heathrow Terminal 3
 * Predicting customer buying behaviour
 
-📜 **[View Certificate](./British_Airways_Certificate.pdf)**
+📜 <a href="https://github.com/alinasingh/British-Airways-Customer-Booking-Prediction/blob/main/Forage%20certificate%20of%20complietion.pd">View Certificate
 
 
 
